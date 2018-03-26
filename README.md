@@ -31,10 +31,12 @@ or Explorer
 
 -   **Jeremy Mutitu** -
 
-## License
-
-This project is licensed under the MIT License
-
 ## Acknowledgments
 
 moringa school
+
+## License
+
+This project is licensed under the MIT License
+MIT © Jeremy Mutitu
+
