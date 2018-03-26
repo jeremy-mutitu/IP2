@@ -6,7 +6,7 @@ the following is a website belonging to Halima custom made for her Kitchen Menu.
 
 ## Getting Started
 
-all you need is internet connection a browser and a web Url to access it which is; <https://github.com/jeremy-mutitu/IP2>
+all you need is internet connection a browser and a web Url to access it which is; https://jeremy-mutitu.github.io/IP2/
 
 ### Prerequisites
 
